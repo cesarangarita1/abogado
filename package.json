@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/[tu-usuario]/vargas-restrepo-abogados.git"
+    "url": "https://github.com/cesarangarita1/abogado.git"
   },
   "bugs": {
-    "url": "https://github.com/[tu-usuario]/vargas-restrepo-abogados/issues"
+    "url": "https://github.com/cesarangarita1/abogado/issues"
   },
-  "homepage": "https://github.com/[tu-usuario]/vargas-restrepo-abogados#readme",
+  "homepage": "https://github.com/cesarangarita1/abogado#readme",
   "devDependencies": {
     "live-server": "^1.2.2"
   }

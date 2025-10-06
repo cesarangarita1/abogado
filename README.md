@@ -42,12 +42,12 @@ Un sitio web profesional para la firma de abogados Vargas Restrepo, especializad
 
 1. Clona el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/cesarangarita1/abogado.git
 ```
 
 2. Navega al directorio del proyecto:
 ```bash
-cd nilson
+cd abogado
 ```
 
 3. Abre `index.html` en tu navegador favorito
