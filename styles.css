@@ -130,7 +130,7 @@ img {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("Beige\ Vintage\ Photo\ Collage\ Calendar\ A5\ Landscape.png");
+  background-image: url("/assets/Beige\ Vintage\ Photo\ Collage\ Calendar\ A5\ Landscape.png");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
