@@ -1,0 +1,34 @@
+{
+  "name": "vargas-restrepo-abogados",
+  "version": "1.0.0",
+  "description": "Sitio web profesional para Vargas Restrepo - Abogados y Asociados",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "dev": "live-server --port=3000 --watch=.",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "echo 'Ready for deployment'"
+  },
+  "keywords": [
+    "abogados",
+    "derecho",
+    "legal",
+    "consultoría",
+    "jurídica",
+    "vargas",
+    "restrepo"
+  ],
+  "author": "Vargas Restrepo - Abogados y Asociados",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[tu-usuario]/vargas-restrepo-abogados.git"
+  },
+  "bugs": {
+    "url": "https://github.com/[tu-usuario]/vargas-restrepo-abogados/issues"
+  },
+  "homepage": "https://github.com/[tu-usuario]/vargas-restrepo-abogados#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
